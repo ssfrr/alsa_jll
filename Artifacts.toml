@@ -1,0 +1,9 @@
+[[alsa]]
+arch = "x86_64"
+git-tree-sha1 = "6e3581859682fad87fea18a0a6c7d6607c92d76a"
+libc = "glibc"
+os = "linux"
+
+    [[alsa.download]]
+    sha256 = "ff15061d3262600d4c45e69e3ea269083993b2ba340d845c2410090c454e77fa"
+    url = "https://github.com/ssfrr/alsa_jll/releases/download/alsa-v1.2.1-1+1/alsa.v1.2.1-1.x86_64-linux-gnu.tar.gz"
